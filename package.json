@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-keystone",
+  "version": "2.4.0",
+  "description": "React Extensions for Keystone's ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet... contribute some?\""
+  },
+  "peerDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-plugin-react": "^6.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keystonejs/eslint-config-keystone-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "keystone",
+    "keystonejs",
+    "javascript"
+  ],
+  "author": "Jed Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keystonejs/eslint-config-keystone-react/issues"
+  },
+  "homepage": "https://github.com/keystonejs/eslint-config-keystone-react#readme",
+  "devDependencies": {}
+}
