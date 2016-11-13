@@ -9,12 +9,12 @@
   },
   "devDependencies": {
     "eslint": "^3.10.0",
-	"eslint-config-keystone": "^3.0.0",
+    "eslint-config-keystone": "^3.0.0",
     "eslint-plugin-react": "^6.6.0"
   },
   "peerDependencies": {
     "eslint": "^3.10.0",
-	"eslint-config-keystone": "^3.0.0",
+    "eslint-config-keystone": "^3.0.0",
     "eslint-plugin-react": "^6.6.0"
   },
   "repository": {
