@@ -1,4 +1,7 @@
 {
+  "extends": [
+    "keystone"
+  ],
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
