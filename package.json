@@ -1,13 +1,20 @@
 {
   "name": "eslint-config-keystone",
-  "version": "2.4.0",
+  "version": "0.0.0",
   "description": "React Extensions for Keystone's ESLint Config",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"No tests yet... contribute some?\""
+  },
+  "devDependencies": {
+    "eslint": "^3.10.0",
+	"eslint-config-keystone": "^3.0.0",
+    "eslint-plugin-react": "^6.6.0"
   },
   "peerDependencies": {
     "eslint": "^3.10.0",
+	"eslint-config-keystone": "^3.0.0",
     "eslint-plugin-react": "^6.6.0"
   },
   "repository": {
@@ -27,6 +34,5 @@
   "bugs": {
     "url": "https://github.com/keystonejs/eslint-config-keystone-react/issues"
   },
-  "homepage": "https://github.com/keystonejs/eslint-config-keystone-react#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/keystonejs/eslint-config-keystone-react#readme"
 }
