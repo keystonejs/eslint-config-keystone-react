@@ -18,6 +18,7 @@ module.exports = {
 		'react/jsx-pascal-case': 'error',
 		'react/jsx-uses-react': 'error',
 		'react/jsx-uses-vars': 'error',
+		'react/jsx-wrap-multilines': 'error',
 		'react/no-did-mount-set-state': 'error',
 		'react/no-did-update-set-state': 'error',
 		'react/no-direct-mutation-state': 'error',
@@ -26,6 +27,5 @@ module.exports = {
 		'react/self-closing-comp': 'error',
 		'react/sort-comp': 'error',
 		'react/sort-prop-types': 'error',
-		'react/wrap-multilines': 'error',
 	},
 };
