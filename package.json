@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-keystone",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "React Extensions for Keystone's ESLint Config",
   "main": "index.js",
   "scripts": {
