@@ -2,11 +2,6 @@
   "extends": [
     "keystone"
   ],
-  "parserOptions": {
-    "ecmaFeatures": {
-      "jsx": true
-    }
-  },
   "plugins": [
     "react"
   ],
